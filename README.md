@@ -1,0 +1,1 @@
+This project contains retail use case with scala version 2.11
